@@ -1,0 +1,21 @@
+{
+  "name": "laravelquera/laravelquera",
+  "description": "Laravel Quera course",
+  "homepage": "https://github/Arianekarimi/LaravelQuera",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "arian",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php" : "^7.1.3|^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Arianekarimi\\LaravelQuera\\": "src"
+    }
+  }
+}
